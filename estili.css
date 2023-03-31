@@ -1,0 +1,167 @@
+/* DOCUMENTO CSS */
+
+body {
+	 margin: 0 0 0 0;
+	 padding: 0 0 0 0;
+	 border: 0;
+	 background-color: #04bead;
+	  font-family: sans-serif;
+	}
+header {
+	background-color: #03a092;
+	height: 100px;
+	padding-top: 25px;
+	color: #005C53;
+	text-align: center;
+}
+
+main{
+	margin: 0px;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	flex-wrap: wrap;
+	align-content: center;
+}
+
+.box {
+	width: 250px;
+	height: 500px;
+	background-color: #9FC131;
+	border-radius: 10px;
+	border: solid #DBF227; 
+	padding: 10px;
+	color: #005C53;
+	text-align: center;
+	margin: 10px;
+}
+
+.box:hover{
+	box-shadow: 6px 6px 10px;
+}
+	}
+
+.box h2{margin: 0 0 10px 0;
+	padding: 0;
+}
+.box figure {width: 250px;
+	height: 200px;
+	background-color: #bce240; 
+	margin: 0;
+	padding: 0;
+}
+.box2 {
+	width: 250px;
+	height: 500px;
+	background-color: #9FC131;
+	border-radius: 10px;
+	border: solid #DBF227; 
+	padding: 10px;
+	color: #54979E;
+	text-align: center;
+	margin: 10px;
+}
+
+.box2:hover{
+	box-shadow: 6px 6px 10px;
+}
+
+.box2 h2{margin: 0 0 10px 0;
+	padding: 0;
+}
+.box2 figure {width: 250px;
+	height: 200px;
+	background-color: #89edf5; 
+	margin: 0;
+	padding: 0;
+	
+}
+.box2 {
+	width: 250px;
+	height: 500px;
+	background-color: #9FC131;
+	border-radius: 10px;
+	border: solid #DBF227; 
+	padding: 10px;
+	color: #9E5749;
+	text-align: center;
+	margin: 10px;
+}
+
+.box2:hover{
+	box-shadow: 6px 6px 10px;
+}
+
+.box2 h2{margin: 0 0 10px 0;
+	padding: 0;
+}
+.box2 figure {width: 250px;
+	height: 200px;
+	background-color: #f5a08f; 
+	margin: 0;
+	padding: 0;
+}
+
+.box3 {
+	width: 250px;
+	height: 500px;
+	background-color: #9FC131;
+	border-radius: 10px;
+	border: solid #DBF227; 
+	padding: 10px;
+	color: #54979E;
+	text-align: center;
+	margin: 10px;
+}
+
+.box3:hover{
+	box-shadow: 6px 6px 10px;
+}
+
+.box3 h2{margin: 0 0 10px 0;
+	padding: 0;
+}
+.box3 figure {width: 250px;
+	height: 200px;
+	background-color: #89edf5; 
+	margin: 0;
+	padding: 0;
+	
+}
+.box3 {
+	width: 250px;
+	height: 500px;
+	background-color: #9FC131;
+	border-radius: 10px;
+	border: solid #DBF227; 
+	padding: 10px;
+	color: #578F8B;
+	text-align: center;
+	margin: 10px;
+}
+
+.box3:hover{
+	box-shadow: 6px 6px 10px;
+}
+
+.box3 h2{margin: 0 0 10px 0;
+	padding: 0;
+}
+.box3 figure {width: 250px;
+	height: 200px;
+	background-color: #9cf2ec; 
+	margin: 0;
+	padding: 0;
+	
+}
+.box p{
+
+}
+footer{
+	background-color: #03a092;
+	height: 70px;
+	padding-top: 10px;
+	color: #005C53;
+	text-align: center;
+}
